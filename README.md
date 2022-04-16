@@ -1,7 +1,7 @@
 # community-fork
 
 ### Requirement *wors with any other package manager not only yum*
-1. github (`sudo yum install github`) 
+1. github (`sudo yum install git`) 
 2. docker (`sudo yum install docker`)
 3. docker-compose https://docs.docker.com/compose/install/
 
