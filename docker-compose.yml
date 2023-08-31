@@ -16,7 +16,7 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
   app:
-    image: pspc/ecency-boilerplate:latest
+    image: pspc/ecency-boilerplate:legacy
     env_file:
       - .env.local
     ports:
